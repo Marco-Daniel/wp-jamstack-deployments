@@ -3,7 +3,7 @@
 /**
  * Plugin Name: JAMstack Deployments
  * Plugin URI: https://github.com/crgeary/wp-jamstack-deployments
- * Description: A WordPress plugin for JAMstack deployments on Netlify (and other platforms).
+ * Description: A WordPress plugin for JAMstack deployments on Netlify (and other platforms) - MDDD-mod.
  * Author: Christopher Geary
  * Author URI: https://crgeary.com
  * Version: 1.1.0
